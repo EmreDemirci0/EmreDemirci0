@@ -14,7 +14,6 @@
 <p align="left"> 
   <a href="https://www.unity.com/" target="_blank" rel="noreferrer"> 
             <img src="https://devicon-website.vercel.app/api/unity/original-wordmark.svg?color=%23FFFFFF" alt="Unity" width="40" height="40" /></a> 
-
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   
  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/github/original-wordmark.svg?color=%23FFFFFF" alt="github" width="40" height="40"/> </a>
