@@ -15,40 +15,16 @@
   <a href="https://www.unity.com/" target="_blank" rel="noreferrer"> 
             <img src="https://devicon-website.vercel.app/api/unity/original-wordmark.svg?color=%23FFFFFF" alt="Unity" width="40" height="40" /></a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  
  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/github/original-wordmark.svg?color=%23FFFFFF" alt="github" width="40" height="40"/> </a>
- 
-  
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
- 
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-
-
-
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
  alt="html5" width="40" height="40"/> </a> 
- 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/javascript/plain.svg" alt="js" width="40" height="40"/> </a>
- 
-
  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/nodejs/plain-wordmark.svg?color=%2383C92D" alt="nodejs" width="40" height="40"/> </a>
- 
-  <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/android/original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- 
-# <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
- 
-
-
-
- 
-
-            
+  <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/android/original-wordmark.svg" alt="css3" width="40" height="40"/> </a>      
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  
-
-  
   </p>
 
 <img align="right" alt="Coding" width="280" src="https://25.media.tumblr.com/tumblr_m3biyv0ofs1qinmdwo1_500.gif">
